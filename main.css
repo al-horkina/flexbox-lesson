@@ -1,0 +1,39 @@
+/*p {
+    margin-top: 0;
+}*/
+.wrapper {
+
+}
+
+.wrapper > * {
+    padding: 1rem;
+}
+
+.header {
+    background: #fefcea;
+    background: linear-gradient(to left, #b7aeaa 1%,#bbe5ed 100%);
+}
+
+.main{
+    background: #777576;
+    background: linear-gradient(to right, #777576 1%,#d8e1e7 50%,#b5c6d0 51%,#bfbccb 100%);
+}
+
+.aside {
+
+}
+
+.aside-1 {
+    background: #febbbb;
+    background: linear-gradient(to top, #febbbb 0%,#fe9090 45%,#b399a2 100%);
+}
+
+.aside-2 {
+    background: #960c07;
+    background: linear-gradient(to left, #960c07 0%,#fe9090 45%,#986c6a 100%);
+}
+
+.footer {
+    background: #c409ae;
+    background: linear-gradient(to bottom, #c409ae 1%,#fe9090 45%,#784f41 100%);
+}
